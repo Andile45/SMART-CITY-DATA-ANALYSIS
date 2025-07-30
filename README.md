@@ -37,4 +37,4 @@ Task 3
 
 2.  They can use the data to set up traffic so that you don’t make your deliveries in time , eg. organizing fake protests in your scheduled delivery timeframe 
 - They can stage robberies against your company so that i am unable to make deadlines and loose the goods at the same time which is bad for business
-Data Governance Officer , They ensure compliance with laws (e.g., POPIA) and ethical use of data. 
+3. Data Governance Officer , They ensure compliance with laws (e.g., POPIA) and ethical use of data. 
