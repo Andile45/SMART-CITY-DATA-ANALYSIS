@@ -1,5 +1,5 @@
 Task 1
-Variety
+  1. Variety
 The different types of units , some are in AQI and some in celsius 
             The value for some is a string and some are integers 
   2.   Velocity
